@@ -1,8 +1,6 @@
 # Tweet Preprocessing for Sentiment Analysis
 
-This repository contains a Jupyter Notebook (`tweet_preprocessing.ipynb`) that documents my learning process in Natural Language Processing (NLP). The focus is specifically on the crucial step of **text preprocessing for sentiment analysis using the NLTK (Natural Language Toolkit) Python library**.
-
-This project demonstrates how to clean and prepare raw tweet data, which is a fundamental skill in any NLP or machine learning project. The content is adapted from the labs in the **"Natural Language Processing with Classification and Vector Spaces"** course, showcasing practical NLP skills and foundational techniques.
+This repository contains a Jupyter Notebook (`tweet_preprocessing.ipynb`) that documents my learning process in Natural Language Processing (NLP). The focus is specifically on the crucial step of text preprocessing for sentiment analysis using the NLTK (Natural Language Toolkit) Python library. The notebook in this repository demonstrates how to clean and prepare raw tweet data. The content is adapted from a lab in the **"Natural Language Processing with Classification and Vector Spaces"** (DeepLearning.AI) course.
 
 ---
 The `tweet_preprocessing.ipynb` notebook covers the following key preprocessing steps:
